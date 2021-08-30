@@ -1,6 +1,6 @@
 # IMAGE TO CARTOON
 
-#A python script to convert jpg/png files to cartoonish form.
+# A python script to convert jpg/png files to cartoonish form.
 
 # USAGE
 
